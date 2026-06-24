@@ -20,7 +20,7 @@ The goal of this project is to translate raw data into strategic business intell
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/customer-trends-data-analysis.git
+   git clone https://github.com/theabhiichakraborty/customer-trends-data-analysis.git
    cd customer-trends-data-analysis
    ```
 
